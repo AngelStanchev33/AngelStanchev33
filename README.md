@@ -7,30 +7,17 @@
 
 - 🌱 I’m currently learning everything. 
 - 👯 I’m looking to collaborate with other people.
-- 🥅 2022 Goals: Contribute more to open-source projects.
+- 🥅 2024 Goals: Contribute more to open-source projects.
 - ⚡ Fun fact: I love coding and gaming
 - 💻 I love building cool stuff
 - 💬 Ask me about anything! I am happy to help
 - 📫 Reach me: angelstanchev33@gmail.com
 
 
-### GitHub Stats
-
-<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark" width="45%" >
 
 
 
 
-
-
-### Connect with me:
-
-
-[<img align="left" alt="BorisGM | Linkedin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
