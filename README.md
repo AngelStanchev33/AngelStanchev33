@@ -1,6 +1,6 @@
 # Angel Stanchev - Java Backend Developer
 
-  ## 🚀 Featured Project: Expense Tracker REST API 💰
+  ## 🚀 Featured Project: [Expense Tracker REST API](https://github.com/AngelStanchev33/JAVA_WEB_PROJECT_Expense-tracker) 💰
 
   ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen?logo=springboot)
