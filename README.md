@@ -28,13 +28,6 @@
   ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk) ![Spring](https://img.shields.io/badge/Spring-Boot-brightgreen?logo=spring) ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)
   ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) ![JWT](https://img.shields.io/badge/JWT-red) ![REST](https://img.shields.io/badge/REST-API-green)
 
-  ---
-
-  ## 📊 GitHub Stats
-
-  ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelStanchev33&show_icons=true&theme=default&hide_border=true)
-
-  ---
 
   ## 📫 Contact
 
