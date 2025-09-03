@@ -32,6 +32,8 @@
   ## 📫 Contact
 
   **📧** angelstanchev33@gmail.com
+  **<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2d62da5a-dca6-465a-a56d-62ccc7c953f5" />** https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB-%D1%81%D1%82%D0%B0%D0%BD%D1%87%D0%B5%D0%B2-533469382/
+
   **💼** Looking for Junior Java Backend positions
   **🌍** Bulgaria
 
